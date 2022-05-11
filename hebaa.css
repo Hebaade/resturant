@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+color: aliceblue;
+background-color: rgb(190, 126, 126);
+align-items: center;
+text-align: center;
+padding:25px ;
+
+}
+h1{
+    font-size: 32px;
+}
+div{
+    border:5px black solid;
+    padding:25px;
+    margin: 25px;px;
+    justify-content: space-between;
+}
+.ph1{
+    width: 100px;
+    align-items: center;
+    border-radius: 50%;
+    padding-left:65px;
+    padding-bottom: 10px;
+}
+.shop1{
+    display: flex;
+    margin: 100px;
+    margin-bottom: 50px;
+    align-items: center;
+    justify-content: center;
+    padding: 25px;
+}
+button{
+    background-color: rgb(78, 78, 117);
+    color: aliceblue;
+    border-color: rgb(78, 78, 117);
+    padding: 5px;
+    border-radius:5px;
+    margin:5px 5px 5px 75px;
+}
+.shop2{
+    display: flex;
+    margin: 100px;
+    margin-bottom: 50px;
+    align-items: center;
+    justify-content: center;
+
+}
+p{
+    padding-bottom:10px ;
+}
+.shop3{
+    display: flex;
+    margin: 100px;
+    margin-bottom: 50px;
+    align-items: center;
+    justify-content: center;
+
+}

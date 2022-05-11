@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    display:flex ;
+    padding: 5px;
+    color: aliceblue;
+    background-color: rgb(214, 173, 119);
+}
+ul{
+list-style-type: none;
+display: flex;
+justify-content:space-between;
+align-items: center;
+padding-left: 500px;
+font-size: 19px;
+}
+h1{
+    padding: 12px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+li{
+    padding:25px;
+}
+li:hover{
+    color: brown;
+    cursor: pointer;
+    font-size: 25px;
+}
+h1:hover{
+    color: brown;
+    cursor: pointer;
+}
+.cover{
+    background-image: url(Hemp-Bread.jpg);
+    background-size: cover;
+    height:550px ;
+}
+.contact{
+    text-decoration: none;
+    color: aliceblue;
+}
+.contact:hover{
+color: brown;
+}
+.shop{
+    text-decoration: none;
+    color: aliceblue;
+}
+.shop:hover{
+color: brown;
+}
+.about{
+    text-decoration: none;
+    color: aliceblue;
+}
+.about:hover{
+color: brown;
+}
+

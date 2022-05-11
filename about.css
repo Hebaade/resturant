@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    background-color: rgb(221, 150, 150);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 15px;
+    color: aliceblue;
+}
+.name{
+    font-size: 64px;
+    font-weight: 200;
+}
+.name1{
+    font-size: 64px;
+    font-weight: 200;
+    padding-left: 60px;
+}
+.loc{
+    font-size: 64px;
+    font-weight: 200;
+}
+.loc1{
+    font-size: 64px;
+    font-weight: 200;
+    padding-left: 60px;
+}
+.sec2{
+    margin:25px;
+}
+.info{
+    font-size: 64px;
+    padding-left: 60px;
+}
+.info1{
+    font-size: 64px;
+    font-weight: 200;
+}
+.sec3{
+    margin:25px;
+    font-size: 32px;
+    padding: 5px;
+}
+.tel{
+    color: rgb(81, 81, 177);
+}
+.fac{
+    color: blue;
+}
+span{
+margin: 5px;
+}
